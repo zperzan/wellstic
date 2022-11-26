@@ -11,4 +11,5 @@ The jupyter notebook `jupyter/example_calibration.ipynb` walks through the examp
 - `numpy`
 - `matplotlib`
 - `scipy`
-- `tqdm`
+- `pandas`
+- `sklearn`
